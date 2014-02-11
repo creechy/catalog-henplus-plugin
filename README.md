@@ -8,7 +8,7 @@ Simply put `catalog-henplus-plugin.jar` in to the CLASSPATH of `henplus`, genera
 
 Start `henplus` and register the plugin. Use the `plug-in` command for this. This only needs to be done once, and will be persisted.
 
-     Hen*Plus> plug-in org.fakebelieve.henplus.plugins.CatalogCommand
+     Hen*Plus> plug-in org.fakebelieve.henplus.plugins.catalog.CatalogCommand
 
 ###Usage###
 
